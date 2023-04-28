@@ -1,0 +1,6 @@
+*	HƯỚNG DẪN CÀI ĐẶT GAME
+1*	Yêu cầu máy cần có sẵn mỗi trường java (JDK). Nếu máy chưa được cài môi trường java ấn vào link hướng dẫn 	https://niithanoi.edu.vn/huong-dan-tai-va-cai-dat-java-cho-windows.html
+2* 	Máy cần được cái sẵn Xampp
+	Hướng dẫn cài đặt Xampp: https://wiki.matbao.net/xampp-la-gi-cach-cai-dat-va-su-dung-xampp-tren-windows-va-linux/
+3*	Truy câp đường link http://localhost/phpmyadmin/ để inport file hh.sql có sẵn.
+4*	Sau khi cài đặt tất cả các bước trên run file Dinosaur.jar để tận hướng game.
